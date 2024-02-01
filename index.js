@@ -2,6 +2,7 @@ import * as cheerio from "cheerio"
 import nodeFetch from "node-fetch"
 import * as fs from 'node:fs'
 
+
 const url = "https://www.premierleague.com/stats/top/players/goals?se=578"
 
 
